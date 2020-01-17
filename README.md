@@ -27,4 +27,4 @@ Download the [Conditionals: Cheat Sheet](https://www.codecademy.com/learn/introd
 
 --------------------------------------------------------------------------------
 
-[![Lessons]](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-conditionals/control_flow_diagram_v5.svg)
+[![Lessons](https://s3.amazonaws.com/codecademy-content/courses/learn-javascript-conditionals/control_flow_diagram_v5.svg)](https://drive.google.com/drive/folders/13Z_Kkh7QVwXeNMJn8pafHLsIYwTCq6Ia?usp=sharing)
